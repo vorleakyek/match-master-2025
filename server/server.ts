@@ -1,8 +1,4 @@
 /* eslint-disable @typescript-eslint/no-unused-vars -- Remove when used */
-// import 'dotenv/config';
-// import express from 'express';
-// import pg from 'pg';
-// import { ClientError, errorMiddleware } from './lib/index.js';
 
 import 'dotenv/config';
 import argon2 from 'argon2';
