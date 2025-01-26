@@ -19,7 +19,7 @@ I want to build a fun game application for kids to play and get them to interest
 
 ## Live Demo
 
-Try the application live at [http://match-master-dev.us-west-1.elasticbeanstalk.com/sign-up](http://match-master-dev.us-west-1.elasticbeanstalk.com/sign-up)
+Try the application live at [MatchMaster](http://ec2-50-18-252-188.us-west-1.compute.amazonaws.com/sign-up)
 
 ## Features
 
